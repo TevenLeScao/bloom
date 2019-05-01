@@ -1,0 +1,48 @@
+<flame version="EMBER-LNX-1.0.0.14" time="0" name="the_last_before_the_winter_22" size="1440 910" center="-0.048 -0.108" scale="570.87" rotate="0" supersample="2" filter="0.5" filter_shape="gaussian" temporal_filter_type="box" temporal_filter_width="1" quality="1000" temporal_samples="100" sub_batch_size="10240" fuse="15" background="0 0 0" brightness="5.2913" gamma="3.81" highlight_power="1" vibrancy="1.01" estimator_radius="9" estimator_minimum="0" estimator_curve="0.4" gamma_threshold="0.01" cam_zpos="0" cam_persp="0.2807" cam_yaw="-1.62839" cam_pitch="0.853466" cam_dof="0.295" palette_mode="linear" interpolation="linear" interpolation_type="log" plugins="gaussian_blur flatten cross linear spherical zcone ztranslate poincare cylinder crackle linear3D epispiral Truchet julia3D" new_linear="1" curves="0 0 1 0.510204 0.102041 1 1 1 1 1 1 1 0 0 1 0 0 1 0.738775 0.828571 1 1 1 1 0 0 1 0 0 1 0 0.628571 1 1 1 1 0 0 1 0 0 1 0.881633 0.236735 1 1 1 1 ">
+   <xform weight="0.5" color="0.14902" var_color="1" color_speed="1" symmetry="-1" name="" animate="1" gaussian_blur="0.415" flatten="1" coefs="1 0 0 1 -0.590569 0.254755" opacity="1"/>
+   <xform weight="5" color="0.270588" var_color="1" color_speed="0.2" symmetry="0.6" name="" animate="0" cross="0.165" linear="1" spherical="0.237" zcone="-0.169" ztranslate="0.443" poincare="0.1" poincare_c1r="2.25" poincare_c1a="-0.6" poincare_c2r="1.2" poincare_c2a="1.2" coefs="-1.11965 -1.06831 0.854836 -1.01985 -0.115798 -0.758476" opacity="1"/>
+   <xform weight="0.1" color="0" var_color="1" color_speed="0" symmetry="1" name="" animate="0" cylinder="0.105" coefs="1 0 0 1 -0.590569 0.254755" post="-1.04192 -0.359108 0.359108 -1.04192 1.25877 -3.46646" opacity="0.1"/>
+   <xform weight="0.1" color="0" var_color="1" color_speed="0.5" symmetry="0" name="" animate="0" crackle="1" crackle_cellsize="0.1" crackle_power="0.2" crackle_distort="1" crackle_scale="1" crackle_z="0" coefs="1 0 0 1 -0.590569 0.254755" post="-1.04192 -0.359108 0.359108 -1.04192 1.25877 -3.46646" opacity="0.1"/>
+   <xform weight="0.25" color="0" var_color="1" color_speed="0" symmetry="1" name="" animate="1" linear3D="1" coefs="0.909091 0 0 0.909091 0.428758 0.067974" opacity="1"/>
+   <xform weight="0.25" color="0.6" var_color="1" color_speed="-0.6" symmetry="2.2" name="" animate="1" epispiral="3.3" epispiral_n="6" epispiral_thickness="0" epispiral_holes="1" ztranslate="1.2" Truchet="1.8" Truchet_extended="0" Truchet_exponent="2" Truchet_arc_width="0.6" Truchet_rotation="-0.5" Truchet_size="1.3" Truchet_seed="50" zcone="-0.05" coefs="0.390498 -0.482758 0.482758 0.390498 2.4366 -0.496732" opacity="1"/>
+   <finalxform color="0" var_color="1" color_speed="0" symmetry="1" name="" animate="0" julia3D="2" julia3D_power="-2" coefs="0.125981 0.992033 -0.992033 0.125981 -0.58478 -1.0885" opacity="1"/>
+   <palette count="256" format="RGB">
+      DFF770CFF781B5F79C99F7BA7EF5D66BEEE861DEF25DC2F6
+      5F9CF66874F67955F79048F8A550F9B168FBAF86FCA09FFD
+      87A8FD6FA1FE5F94FE5D8DFE6992FD7F9EFC98A5FBAEA0FB
+      BF90FBCC7DFCD670FDE06BFDE86BFEF06DFDF66FFDFA6FFB
+      FD6FFAFE6FF8FF70F7FF71F7FF72F8FF73F9FF74FBFE75FD
+      FE75FEFE75FFFE75FFFD77FFF97AFFED84FED994FCBDAAFB
+      9DC3F982D8F871E3F86CE1F873D2F880B9F88C9CF89284F7
+      8D76F88177F87485F96B9EFA6CBBFA78D3FA8CE1F6A5DFEB
+      BECFD9D0B2C2D990AED76FA6CD56ADC048C1B545D8B24AEB
+      B654F7C15FFCCE68FEDB6DFEE770FDF070FCF66FFBF96FFB
+      FA70FBFA72FCFA73FDFA75FEFB76FFFC76FFFD76FFFE76FE
+      FF76FEFF76FEFF76FFFF76FFFF76FFFF76FFFF76FFFF76FF
+      FF76FFFF77FDFF7BF9FE84EDFB94DAF4AAC3E8C3AED2D7A5
+      B7E0AA99DABC7EC3D269A3E45A87EF507CF24A87EF4DA3E4
+      5DC2D076D7B890DAA4A0CA9DA0ABA69786BC8F64D58E4FE8
+      944CF4985CF99578FB8E94FC8AA7FC90A9FAA19DF6B88CEF
+      CF7CE6E172DFEC6DDDF26BE0F26AE8F06AF1ED6BF8EB6CFC
+      EC6FFEEE71FFF273FFF674FEFA75FEFC75FDFD75FDFE75FD
+      FE75FEFE75FEFE75FFFF76FFFF76FFFF76FFFF76FFFF76FF
+      FF76FFFF76FFFD77FFF97BFFED84FEDA94FBC3AAF4AEC3E8
+      A6D8D3ACE4B8BEE49DD3D887E0C67DDEB682CEAE92B5AEA8
+      9FAFBB96AAC69F9AC3B689B1D18397E58E7CEFA86CF0C66F
+      E8DB84DAE0A6C7D5C9B3BEE3A1A4F3988AFA9B77FDA66BFD
+      B565FEC563FED163FFDA65FFE167FFE66AFEEB6DFDF06FFC
+      F571FBF873FBFA74FBFB75FCFB75FDFC75FDFC75FDFD75FD
+      FE75FDFF75FEFF75FFFF75FFFF76FFFF76FFFF76FFFF76FF
+      FF76FFFF76FFFF76FFFF76FFFF76FFFF76FFFF76FFFF76FF
+      FF76FFFF76FFFF76FFFF76FFFF76FFFF76FFFF76FFFF76FF
+      FF76FFFF76FFFD77FFF97BFFED84FED994FCBDAAFB9DC3F9
+      81D8F86DE4F861E4F95DD8F95BC2F95BA9F85C91F8617EF7
+      6B70F77C66F8905BF9A050F9A444F89D3DF39340E58F51CD
+      986DAFAB8996BF998BCC9796D087B0D072CFD063E7D15AF5
+   </palette>
+   <edit date="mar. avril 30 04:14:08 -0400 2019" action="edit">
+      <edit date="mar. avril 30 03:07:35 -0400 2019" action="edit" filename="/home/teven/Fractals/scripting/personal/kindling/kindling.flame" index="0">
+         <edit filename="/home/teven/Fractals/scripting/base_flames.flame" index="22"/>
+      </edit>
+   </edit>
+</flame>

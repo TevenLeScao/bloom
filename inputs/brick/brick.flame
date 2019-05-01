@@ -1,0 +1,46 @@
+<flame version="EMBER-LNX-1.0.0.14" time="0" name="the_last_before_the_winter_13" size="1440 910" center="-0.048 -0.108" scale="660.87" rotate="-27.69" supersample="2" filter="0.5" filter_shape="gaussian" temporal_filter_type="box" temporal_filter_width="1" quality="1000" temporal_samples="100" sub_batch_size="10240" fuse="15" background="0 0 0" brightness="5.2913" gamma="3.81" highlight_power="1" vibrancy="1.01" estimator_radius="9" estimator_minimum="0" estimator_curve="0.4" gamma_threshold="0.01" cam_zpos="0" cam_persp="0.2107" cam_yaw="-5.22377" cam_pitch="0.591667" cam_dof="0.295" palette_mode="linear" interpolation="linear" interpolation_type="log" plugins="gaussian_blur flatten linear zcone ztranslate cross auger blur_pixelize arch diamond curl zblur julia3D" new_linear="1" curves="0 0 1 0 0 1 1 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 ">
+   <xform weight="0.5" color="0" var_color="1" color_speed="0.174942" symmetry="0.650116" name="" animate="1" gaussian_blur="0.215" flatten="1" coefs="1 0 0 1 -0.590569 0.254755" opacity="1"/>
+   <xform weight="5" color="0.611765" var_color="1" color_speed="0.114503" symmetry="0.770994" name="" animate="0" linear="1" zcone="0.581" ztranslate="-0.557" cross="0.02" auger="-0.05" auger_sym="0" auger_weight="0.5" auger_freq="5" auger_scale="0.1" blur_pixelize="0.2" blur_pixelize_size="0.1" blur_pixelize_scale="1" arch="-0.05" coefs="-1.11965 -1.06831 0.854836 -1.01985 -0.115798 -0.758476" opacity="1"/>
+   <xform weight="0.1" color="0" var_color="1" color_speed="0.0401261" symmetry="0.919748" name="" animate="0" diamond="0.6" curl="-0.8" curl_c1="1" curl_c2="0" coefs="0.424098 0 0 0.424098 -0.590569 0.254755" post="-1.04192 -0.359108 0.359108 -1.04192 1.25877 -3.46646" opacity="0.1"/>
+   <xform weight="0.1" color="0.6" var_color="1" color_speed="0.926923" symmetry="-0.853846" name="" animate="0" zblur="3.55" coefs="1 0 0 1 -0.590569 0.254755" post="-1.04192 -0.359108 0.359108 -1.04192 1.25877 -3.46646" opacity="0.1"/>
+   <finalxform color="0" var_color="1" color_speed="0.213748" symmetry="0.572504" name="" animate="0" julia3D="2" julia3D_power="-2" coefs="0.125981 0.992033 -0.992033 0.125981 -0.58478 -1.0885" opacity="1"/>
+   <palette count="256" format="RGB">
+      AEE826A6E32F97DB4082D0576BC37056BA8747B5983EB6A1
+      3DBBA444BFA252C29D65C2957CBF8B92BC7EA2B76DABB25B
+      ADAA4DA69F4794904F7C7E64646B7B555C8B57548B69527A
+      865760A45D45BD6432CE6B28D67329D37E35C48C4CAD9E6C
+      93B18D83C0A482C8A992C99CACC786C6C471DAC365E6C563
+      E9C865E6CA66DEC761D1C155C3B945B6B135ACAB2AA6A825
+      A0A82696AA2E85AE3F70B3545BB76A4EB8774EB3775DA96A
+      739F548A983F9C992EA5A026A6A9279EAA308D9D4275835A
+      5C647649488E41389E4534A65239A76740A37F459C9A4993
+      B44C88CA547BDA636BE2795AE2924DD9AA4BC8BC58B0C774
+      99CE948AD1AF8BD3BA9AD4B7B0D5ACC1D5A3C5D6A4BBD7B0
+      A9D8C396D9D688D9E481D8EA7FD4E882C8DA87B4C18D989D
+      957E789B6E5AA0714BA4844BA79F53ABB45BB1B75AB8A951
+      C08E43C57035C5542AC13E24BC3021B72A20B52E21B63C23
+      B85028B76733B17F46A5956095A67C82AE966FA9AA5D98B5
+      5080B94F69B65E57AC7B4D9E9F4C8CC1537AD9636AE4795E
+      E59258DCA85CCBB86CB6C087A1C2A395C4B896C5BEA4C9B5
+      BACDA2D0D18FE1D482EAD67CEFD87BF0D97CF0DA7DEFDA7E
+      ECDA82E4DA89D6DA97C2DAABADDBC299DBD68CDBE485DBEB
+      85DBEC8DDBE59BDBD7ADDBC5BFDBB3CBDBA8CBDBA8C0DBB3
+      AEDCC59CDCD78EDCE587DCEC87DCEC8EDCE59CDCD7AFDCC4
+      C4DCAFD7DC9CE5DC8EECDC87ECDC87E5DC8ED7DC9CC5DCAE
+      B3DCC0A8DCCBA8DCCBB3DCC0C5DCAED7DC9CE5DC8EEDDC86
+      F0DC83F1DC82F1DC82F1DC82F1DC82F1DC82F1DC82F1DC82
+      F1DC82F1DC82F1DC82F0DC81EEDD7EEADE78E2DF6BD8E15B
+      CCE249C0E03AB7D931B1CF2EADC330AABA34A8B536A7B639
+      A5BB3CA2BF449DC25197C26491BF778EBC8191B77F98B26F
+      A2AA58AD9F40B5902FB97E27B86B28AE5C329B5447805264
+      615784455DA43264BD286BCE2973D6357ED34C8CC46C9EAD
+      8DB193A4C083A9C8829DC9918BC7A77EC4B980C3BF93C6B7
+      AECBA7C9D096DED489E9D683EED881F0D981F0D981F0DA81
+      F1DA81F1DB80F1DB80F1DB81F1DB81F1DB82F1DB82F1DB82
+   </palette>
+   <edit date="mar. avril 30 04:14:36 -0400 2019" action="edit">
+      <edit date="mar. avril 30 03:41:06 -0400 2019" action="edit" filename="/home/teven/Fractals/scripting/personal/brick/brick.flame" index="0">
+         <edit filename="/home/teven/Fractals/scripting/base_flames.flame" index="13"/>
+      </edit>
+   </edit>
+</flame>

@@ -1,0 +1,48 @@
+<flame version="EMBER-LNX-1.0.0.14" time="0" name="personal_1" size="1440 910" center="0.252 -0.407686" scale="209.533" rotate="-139.436" supersample="2" filter="0.5" filter_shape="gaussian" temporal_filter_type="box" temporal_filter_width="1" quality="1000" temporal_samples="100" sub_batch_size="10240" fuse="15" background="0 0 0" brightness="5.2913" gamma="3.81" highlight_power="1" vibrancy="1.01" estimator_radius="9" estimator_minimum="0" estimator_curve="0.4" gamma_threshold="0.01" cam_zpos="0" cam_persp="0.2107" cam_yaw="-1.64585" cam_pitch="-0.682424" cam_dof="0.295" palette_mode="linear" interpolation="linear" interpolation_type="log" plugins="arch flatten cross linear spherical waves2 ztranslate cylinder bubble crackle sec julia3D" new_linear="1" curves="0 0 1 0 0 1 1 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 ">
+   <xform weight="0.5" color="0.729412" var_color="1" color_speed="0.892133" symmetry="-0.784266" name="" animate="1" arch="0.85" flatten="1" coefs="-0.959067 -0.283178 0.283178 -0.959067 -0.0258632 -0.0380556" opacity="1"/>
+   <xform weight="5" color="0.541176" var_color="1" color_speed="0.614736" symmetry="-0.229472" name="" animate="0" cross="0.015" linear="1.01" spherical="0.537" waves2="-0.15" waves2_freqx="3.708" waves2_scalex="1" waves2_freqy="0.361" waves2_scaley="1" waves2_freqz="0" waves2_scalez="0" ztranslate="0.443" coefs="-1.11965 -1.06831 0.854836 -1.01985 -0.44521 0.637602" opacity="1"/>
+   <xform weight="0.1" color="0.937255" var_color="1" color_speed="1" symmetry="-1" name="" animate="0" cylinder="0.105" coefs="1 0 0 1 1.0042 -0.367467" post="-1.04192 -0.359108 0.359108 -1.04192 1.25877 -3.46646" opacity="0.1"/>
+   <xform weight="0.1" color="0.352941" var_color="1" color_speed="0" symmetry="1" name="" animate="0" bubble="-0.05" crackle="0.1" crackle_cellsize="0.1" crackle_power="0.2" crackle_distort="1" crackle_scale="1" crackle_z="0" sec="0.001" coefs="1 0 0 1 -0.590569 0.254755" post="-1.04192 -0.359108 0.359108 -1.04192 1.25877 -3.46646" opacity="0.1"/>
+   <finalxform color="0" var_color="1" color_speed="0.750927" symmetry="-0.501854" name="" animate="0" julia3D="2" julia3D_power="-2" coefs="0.849565 0.527485 -0.527485 0.849565 0.38254 0.234376" opacity="1"/>
+   <palette count="256" format="RGB">
+      63E26A63E26A63E26A63E26A63E26A64E36965E46866E567
+      67E76768E96769EB6869ED6B68EE6F64EF735EF07756F07A
+      50F07C53F07C61F07B79F17895F176A9F178B0F080A8EE8D
+      97EB9D84E9AD76E7BB6EE6C56BE6CB6AE6CC6AE8CA6BEBC4
+      6EEEBB74F0B07FF2A58EF39A9FF390B0F389BEF384C8F382
+      CFF482D4F482D7F483D8F483D8F483D8F483D8F483D8F482
+      D9F482DAF482DAF483D9F484D7F487D1F48EC7F499B8F4A8
+      A8F4B999F4C78FF4D28AF4D887F4DA87F4DB87F4DB88F4DA
+      8AF4D890F4D29AF4C8A9F4B9B9F4A9C8F49AD2F490D8F48A
+      DAF488DBF487DBF487DBF487DBF487DBF487DBF487DAF488
+      D8F48AD2F490C8F49AB9F4A9A9F4B99AF4C890F4D28AF4D8
+      88F4DA87F4DB87F4DB88F4DA8AF4D890F4D29AF4C8A8F4BA
+      B6F4ACBEF4A4BEF4A4B6F4ACA8F4BA9AF4C890F4D28AF4D7
+      87F3D683F2CF7FF0C178EDAD72E9986BE68667E47A64E375
+      63E37463E37563E57563E77363EA7063EC6E63EE6C63EF6C
+      63F06E64F17665F08466EF9767EEAA69ECB66AEAB66AE8AA
+      6AE69767E48461E37658E36E4EE36B46E46A40E66A3FE96A
+      43ED6A4EEF6A60F16A79F16A93F16BAAF16CB9F16EBEF172
+      BCF277B5F381ACF38EA3F39E9BF3AD99F3B69DF3B7A6F3AF
+      B1F3A4B9F39CB9F39CB1F3A4A7F4B09FF4B8A0F4B9A9F4B2
+      B5F4A7BEF4A0BEF4A1B6F4AAABF4B6A3F4BEA4F4BEACF4B6
+      BAF4A8C8F49AD2F490D8F48ADAF488DBF487DBF487DAF488
+      D8F48AD2F490C8F49ABAF4A8ACF4B6A4F4BEA4F4BEACF4B6
+      BAF4A8C8F49AD2F490D8F48ADAF488DBF487DBF487DBF487
+      DBF487DBF487DBF487DBF487DBF487DBF487DBF487DBF487
+      DBF487DBF487DBF487DAF488D8F48AD2F490C8F49ABAF4A8
+      ACF4B6A4F4BEA4F4BEACF4B6BAF4A8C8F49AD2F490D7F48B
+      D7F48BD2F490C8F49AB9F4A8A7F3B596F2BC87F0B87CEDAA
+      72E9976BE68467E47664E36E64E36B64E36965E56866E667
+      67E96668EB6569EC646AED636CEE636FED6474EC657BEA66
+      81E76783E56880E36976E26A69E26A5FE26A58E26A57E26B
+      5AE36E5EE47662E68465E89767EBAB68EDBE69EFCC6AF0D3
+   </palette>
+   <edit date="lun. avril 29 00:23:40 -0500 2019" action="edit">
+      <edit date="lun. avril 29 00:08:43 -0500 2019" action="edit" filename="/home/teven/Fractals/scripting/personal/neon.flame" index="0">
+         <edit action="edit" date="dim. avril 28 23:47:12 -0500 2019" filename="/home/teven/Fractals/scripting/wip.flame" index="1">
+            <edit filename="/home/teven/Fractals/packs/miscellaneous/the_last_before_the_winter_escherymack.flame" index="0"/>
+         </edit>
+      </edit>
+   </edit>
+</flame>

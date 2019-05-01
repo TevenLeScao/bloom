@@ -1,0 +1,47 @@
+<flame version="EMBER-LNX-1.0.0.14" time="0" name="the_last_before_the_winter_28" size="1920 1080" center="-0.01 -0.199" scale="856.78" rotate="-10" supersample="2" filter="0.5" filter_shape="gaussian" temporal_filter_type="box" temporal_filter_width="1" quality="1000" temporal_samples="100" sub_batch_size="10240" fuse="15" background="0 0 0" brightness="5.2913" gamma="3.81" highlight_power="1" vibrancy="1.01" estimator_radius="9" estimator_minimum="0" estimator_curve="0.4" gamma_threshold="0.01" cam_zpos="0" cam_persp="-0.1193" cam_yaw="-2.01236" cam_pitch="0.731293" cam_dof="0.005" palette_mode="linear" interpolation="linear" interpolation_type="log" plugins="gaussian_blur flatten bubble cross linear spherical zcone ztranslate waves2 epispiral cylinder z linear3D swirl julia3D" new_linear="1" curves="0 0 1 0 0 1 0.922449 0.563265 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 0 0 1 0 0 1 0.661224 0.938776 1 1 1 1 ">
+   <xform weight="0.5" color="0.552941" var_color="0.8" color_speed="0.5" symmetry="0" name="" animate="1" gaussian_blur="0.25" flatten="1.45" coefs="1 0 0 1 -0.590569 0.254755" opacity="1"/>
+   <xform weight="5" color="0.262745" var_color="1" color_speed="0.05" symmetry="0.9" name="" animate="0" bubble="-0.023" cross="0.015" linear="1" spherical="0.087" zcone="0.031" ztranslate="0.44" waves2="0.16" waves2_freqx="4.108" waves2_scalex="1.2" waves2_freqy="1.461" waves2_scaley="0.85" waves2_freqz="1.1" waves2_scalez="0.3" epispiral="0.05" epispiral_n="1" epispiral_thickness="0" epispiral_holes="1.222" coefs="-1.11965 -1.06831 0.854836 -1.01985 -0.115798 -0.758476" opacity="1"/>
+   <xform weight="0.1" color="0.74902" var_color="1" color_speed="0.2" symmetry="0.6" name="" animate="0" cylinder="-0.395" z="0.6" z_hypergon="0" z_hypergon_n="4" z_hypergon_r="1" z_star="0" z_star_n="5" z_star_slope="1.5708" z_lituus="0" z_lituus_a="1" z_super="0" z_super_m="1" z_super_n1="1" z_super_n2="1" z_super_n3="1" linear3D="0.2" coefs="1.9413 0.169842 -0.169842 1.9413 -1.59057 0.254755" post="-1.04192 -0.359108 0.359108 -1.04192 1.25877 -3.46646" opacity="0.1"/>
+   <xform weight="0.1" color="0.345098" var_color="1" color_speed="-0.4" symmetry="1.8" name="" animate="0" coefs="1 0 0 1 -0.590569 0.254755" post="-1.04192 -0.359108 0.359108 -1.04192 1.25877 -3.46646" opacity="0.1"/>
+   <xform weight="0.25" color="0.376471" var_color="1" color_speed="0.3" symmetry="0.4" name="" animate="1" swirl="0.05" coefs="1 0 0 1 0 0" opacity="1"/>
+   <finalxform color="0" var_color="1" color_speed="0" symmetry="1" name="" animate="0" julia3D="2" julia3D_power="-2" coefs="0.741044 0.671457 -0.671457 0.741044 -0.58478 -1.0885" opacity="1"/>
+   <palette count="256" format="RGB">
+      6464FD6465FD6467FD646BFD6472FE647DFE648FFE64A6FE
+      64BEFE64D5FE64E5FE64EFFE65F3FF66F1FF69E9FF6DDEFE
+      74D0FB81C4F394BAE6ACB5D4C2B3C2CFB5B7CEBAB7BFC2C2
+      ACCBD49ED2E69ED6F3ADD7FAC5D5FBDDD3FAEFD3F6F9D4F1
+      FDD7ECFDDCE9FBE2EAF9E8EDF7EFF3F5F5F8F5F9FCF6FBFE
+      F8FCFFFAFCFFFCFCFEFEFCFDFEFDFCFFFDFCFFFDFCFFFEFC
+      FEFEFDFEFFFEFEFFFFFEFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFDFDFFF9F9FFEEEEFFDBDBFFC0C0FE
+      A3A2FE8887FD7574FD6A6AFD6669FE6470FE647FFE6693FC
+      6AAAF875C0ED88D0D9A2DABFC0DFA3DADE8AEED97AF9CF73
+      FDC473FFB977FFB27CFEAD82FAAD8AF0B195DFBAA5C8C6BA
+      B1D3D0A2DBE2A2DCECB1D5F0C8CCEEDFC6EAF0C6E8FACFE8
+      FEDCE9FFE8EBFFF1EEFFF6F1FFF7F5FFF8F7FFF8FAFFF9FC
+      FFFBFDFFFCFEFFFDFFFFFEFFFEFFFFFEFFFFFEFFFFFEFFFF
+      FFFEFFFFFEFFFFFEFFFFFEFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFF
+      F9F9FFEEEEFFDBDBFEC2C0FDA9A3F89989ED9978DAA871BF
+      C173A2DA7D88ED8F75F8A66AFCBE66FED564FEE564FDEF66
+      F9F36AF0F175DFE988C9DEA2B3D0BCA5C4CFA5BAD5B1B5CE
+      C3B3C1CFB5B7CEBAB7BFC2C2ACCBD49ED2E69ED6F3ADD7FA
+      C5D5FBDDD3FAEFD3F6F9D4F1FDD7ECFDDCE9FBE2EAF9E8ED
+      F7EFF3F5F5F8F5F9FBF7FBFDF9FCFEFBFCFDFCFCFDFCFCFE
+      FCFDFEFCFDFFFCFDFFFCFEFFFDFEFEFEFFFEFFFFFEFFFFFE
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+   </palette>
+   <edit date="mar. avril 30 19:47:23 -0400 2019" action="edit">
+      <edit date="mar. avril 30 02:50:29 -0400 2019" action="edit" filename="/home/teven/Fractals/scripting/personal/crucible_highres/crucible.flame" index="0">
+         <edit filename="/home/teven/Fractals/scripting/base_flames.flame" index="28"/>
+      </edit>
+   </edit>
+</flame>

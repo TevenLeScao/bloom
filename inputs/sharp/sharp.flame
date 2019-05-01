@@ -1,0 +1,49 @@
+<flame version="EMBER-LNX-1.0.0.14" time="0" name="personal_3" size="1440 910" center="0.152 0.092" scale="310" rotate="180" supersample="2" filter="0.5" filter_shape="gaussian" temporal_filter_type="box" temporal_filter_width="1" quality="1000" temporal_samples="100" sub_batch_size="10240" fuse="15" background="0 0 0" brightness="5.2913" gamma="3.81" highlight_power="1" vibrancy="1.01" estimator_radius="9" estimator_minimum="0" estimator_curve="0.4" gamma_threshold="0.01" cam_zpos="0" cam_persp="0.4307" cam_yaw="-1.36659" cam_pitch="-0.403171" cam_dof="0.235" palette_mode="linear" interpolation="linear" interpolation_type="log" plugins="gaussian_blur flatten cross linear spherical waves2 ztranslate butterfly cylinder bubble crackle blocky julia3D" new_linear="1" curves="0 0 1 0 0 1 1 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 ">
+   <xform weight="0.5" color="0" var_color="1" color_speed="0.5" symmetry="0" name="" animate="1" gaussian_blur="0.465" flatten="1" coefs="-0.959067 -0.283178 0.283178 -0.959067 -0.0258632 -0.0380556" chaos="1 1 1 1 0 " opacity="1"/>
+   <xform weight="5" color="0.222" var_color="1" color_speed="0.05" symmetry="0.9" name="" animate="0" cross="0.015" linear="1.01" spherical="0.437" waves2="-0.05" waves2_freqx="3.708" waves2_scalex="1" waves2_freqy="0.361" waves2_scaley="1" waves2_freqz="0" waves2_scalez="0" ztranslate="1.043" butterfly="0.55" coefs="-1.11965 -1.06831 0.854836 -1.01985 -0.44521 0.637602" chaos="1 1 1 1 0 " opacity="1"/>
+   <xform weight="0.1" color="0" var_color="1" color_speed="0" symmetry="1" name="" animate="0" cylinder="0.105" coefs="1 0 0 1 1.0042 -0.367467" post="-1.04192 -0.359108 0.359108 -1.04192 1.25877 -3.46646" chaos="1 1 1 1 0 " opacity="0.1"/>
+   <xform weight="0.1" color="0" var_color="1" color_speed="0" symmetry="1" name="" animate="0" bubble="-0.05" crackle="0.1" crackle_cellsize="0.1" crackle_power="0.2" crackle_distort="1" crackle_scale="1" crackle_z="0" blocky="0.9" blocky_x="1" blocky_y="1" blocky_mp="4" coefs="1 0 0 1 -0.590569 0.254755" post="-1.04192 -0.359108 0.359108 -1.04192 1.25877 -3.46646" chaos="1 1 1 1 0 " opacity="0.1"/>
+   <xform weight="0.5" color="0" var_color="1" color_speed="0.5" symmetry="0" name="" animate="1" gaussian_blur="-1.485" flatten="0.1" coefs="1 0 0 1 -0.590569 0.254755" chaos="0 0 0 0 1 " opacity="1"/>
+   <finalxform color="0" var_color="1" color_speed="0" symmetry="1" name="" animate="0" julia3D="2" julia3D_power="-2" coefs="0.849565 0.527485 -0.527485 0.849565 0.38254 0.234376" opacity="1"/>
+   <palette count="256" format="RGB">
+      DE76EEE170EAE668E1EC61D3F15DC4F55FB7F766B2F871B8
+      F67EC5F289D3EC8EDEE48DE4D884E6CB79E7C071E8BC71EA
+      C07DEAC892E3CEAAD5C8BFC2B5CEB199D6A97BDBAB65DDB1
+      5DDEB465DCB07AD7A896CDA3B2BFA8C9ADB5D99BC6E38CD4
+      E882DEEB7DE1EB7CDEEA80D2E58BBFD99CA7C6B093B1C286
+      A3CF7CA4D56FB4D660CCD154E1C858ECBD6DEFB38FEEAEB1
+      ECACCAEBAAD7E9A7D8E5A3D1DDA3C1D2A9AAC9B48DC7C16D
+      CDCC51D6D33DDAD53AD7D14BD0C86ACBBC91CEB1B3D8AACB
+      E4A5D8EDA1DFF29DE3F59CE6F4A0E5F1A9DFE8B6D0DBC3B8
+      CBCE9EBCD686ADDA789FDD7691DE7E85DF887FDF8F7DDF91
+      7BDD9476D89F6FCFB370C1C97FB1DB9BA3E3BA9AE4D495E2
+      E28FE2E688E5E580EAE479EFE578F0E77DEFEA85ECEC8DE7
+      ED92E3EF92E0F18DDEF187DEF083DBEC87D1E692BFDBA4A8
+      CAB692B4C5869BD08684D78F77DB9776DD977EDE8F88DF85
+      8DDF818ADF8484DF8A81DF8D85DF8991DE7F9EDB77AAD478
+      B5C882C1B993CEA8A2DA94ABE47FAFE96BB4EB5EBDEA5FCA
+      EB6ED7ED88DCF1A3D2F5B9B9F9C893FCD169FBD744F6DA2E
+      EADD2BD7DE38BBDF5399DF7575DF9955DFB940DFCE3BDFD3
+      48DFC662DFAC80DE8F9DDB78B5D36EC8C673D8B785E3A99F
+      E9A3BAEAA6D0EAAEDEEBB6E4EEB7E4F0B3E1EDAEDADFADD1
+      C5B5C8A2C1C37ECDC064D6BF5ADBBA5FDEAF72DF9B8DDF80
+      ADDF60CBDF43DEDE31E3DB30DCD440D1C759CAB775CBA68E
+      D196A5D88BB9DC86CCDD89D6DE92D2E19EBCE5AA97E7B570
+      E4BF51DBC941D0D140C6D746BCDB4FB1DD5BA4DE6997DF76
+      8EDF8089DF858ADF8490DF7E9CDF72ADDF61BCDF52C1DE4F
+      B9DA5CADD175A4C095A7AAB1B393C5C380CCD373C9DE6DC1
+      E56CBDE870C0E57BCBDA8DD8C6A1E4AEAEEC9CB0F099A8F0
+      A69BEEBC8FECD289EAE18BE7E893E2EA9DD4EBA7BAEDB194
+      F1BB69F5C542F7CE28F4D61DECDA21DFDD2DD4DE39D0DF3E
+      D4DF3ADDDF31E3DF2BDEDF30CBDF43B0DF5E97DF778ADE86
+      8EDA87A0D282B9C481CFB18BE09E9FE98FB7EE85CBF182D8
+      F384DFF48AE4F295E8EBA5EDDAB5F2C1C4F6A4CFF98ED5FA
+   </palette>
+   <edit date="lun. avril 29 00:23:10 -0500 2019" action="edit">
+      <edit date="lun. avril 29 00:10:11 -0500 2019" action="edit" filename="/home/teven/Fractals/scripting/personal/sharp.flame" index="0">
+         <edit action="edit" date="dim. avril 28 23:47:12 -0500 2019" filename="/home/teven/Fractals/scripting/wip.flame" index="3">
+            <edit filename="/home/teven/Fractals/packs/miscellaneous/the_last_before_the_winter_escherymack.flame" index="0"/>
+         </edit>
+      </edit>
+   </edit>
+</flame>

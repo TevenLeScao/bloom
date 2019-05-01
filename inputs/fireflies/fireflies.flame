@@ -1,0 +1,47 @@
+<flame version="EMBER-LNX-1.0.0.14" time="0" name="the_last_before_the_winter_12" size="1440 910" center="-0.148 -0.108" scale="620.87" rotate="12.31" supersample="2" filter="0.5" filter_shape="gaussian" temporal_filter_type="box" temporal_filter_width="1" quality="1000" temporal_samples="100" sub_batch_size="10240" fuse="15" background="0 0 0" brightness="5.2913" gamma="3.81" highlight_power="1" vibrancy="1.01" estimator_radius="9" estimator_minimum="0" estimator_curve="0.4" gamma_threshold="0.01" cam_zpos="0" cam_persp="0.2107" cam_yaw="-1.05243" cam_pitch="0.958186" cam_dof="0.295" palette_mode="linear" interpolation="linear" interpolation_type="log" plugins="flatten cross linear zcone ztranslate cylinder blur_heart julia3D" new_linear="1" curves="0 0 1 0 0 1 1 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 ">
+   <xform weight="0.5" color="0" var_color="1" color_speed="0.5" symmetry="0" name="" animate="1" flatten="1" coefs="1 0 0 1 -0.590569 0.254755" opacity="1"/>
+   <xform weight="5" color="0.290196" var_color="1" color_speed="0.05" symmetry="0.9" name="" animate="0" cross="0.015" linear="1" zcone="-0.269" ztranslate="0.593" coefs="-1.01787 -0.971186 0.777124 -0.927135 -0.115798 -0.758476" opacity="1"/>
+   <xform weight="0.1" color="0" var_color="1" color_speed="0" symmetry="1" name="" animate="0" cylinder="0.105" coefs="1 0 0 1 -0.590569 0.254755" post="-1.04192 -0.359108 0.359108 -1.04192 1.25877 -3.46646" opacity="0.1"/>
+   <xform weight="0.1" color="0.890196" var_color="1" color_speed="0.6" symmetry="-0.2" name="" animate="0" blur_heart="6.05" blur_heart_p="0.5" blur_heart_a="-0.6" blur_heart_b="0.7" ztranslate="1.9" zcone="-0.4" coefs="-0.707066 -0.842649 0.842649 -0.707066 -0.590569 -1.74524" post="-1.04192 -0.359108 0.359108 -1.04192 1.25877 -3.46646" opacity="0.1"/>
+   <xform weight="0.25" color="0.317647" var_color="1" color_speed="1" symmetry="-1" name="" animate="1" linear="1" coefs="0.749015 -0.349271 0.349271 0.749015 0 0" opacity="1"/>
+   <finalxform color="0" var_color="1" color_speed="0" symmetry="1" name="" animate="0" julia3D="2" julia3D_power="-2" coefs="0.125981 0.992033 -0.992033 0.125981 -0.58478 -1.0885" opacity="1"/>
+   <palette count="256" format="RGB">
+      754F2976522F7957387C5D4680625783626A835B7D804E8F
+      7C3F9C7935A276359E753E90744F7F74627274746E748575
+      74948274A39474B1A475BCB476C2BF79BDC47FA9C18788B7
+      8F65A9974D9D9C49969F5A94A07796A2959AA6AA9EAAB5A2
+      AAB9A5A3B8A990B8AF73B7B657B7B947B8B24DB89F67B782
+      89B764A0B652A1B6578AB67165B6993FB7C023B9DD13BAED
+      0DBDF40CBEF60CC0F60DC0F50EBDF110B5E913A6D91893C2
+      207EA92B6D923B63824E61796363757862748C5B749B4E74
+      A73F73AB3570A8356CA03E66944F608A625C87745C898560
+      9194669CA36CA9B170B5BC73C0C274C6BD76C7A978C1887C
+      B86580AF4D85A8498AA35A90A17796A1959CA1AAA3A3B5A9
+      A5B9AAA9B8A3AFB88FB8B771C1B74ECBB82ED4B818DBB70E
+      DBB711D1B622B8B64092B66967B6973FB7C023B9DD15BAEB
+      16BDEB25BEDD42C0C069C09990BD70AAB54FADA63F9A9240
+      7C7D4D61695D545B69575370635273705574785D74796975
+      7678787289806F9B8D6FAD9F70BDB472C9C873CDD875CBE3
+      78C5E780BDE58FB6DBA2B2CBB5B0B8C4B2A5C8B997C2C48E
+      B4CC8BA2CC8D8FBE937DA39E6E82A96563B3644DB86C43B8
+      7B43B78C4BB79F59BCB26DC5C383D1D296DCDDA3E4E2AAE9
+      DFADEBD1ADECB6ADEC91ADEC6CADE756AFD956B1BE6DB498
+      8DB872A5BB5BA6BD5B90BE736DBF9948BFC02DBFDD1FC0EC
+      1FC0EC2DC1DE49C2C36EC29D93C279ABC262ABC26296C278
+      77C39662C3AC62C3AC78C39696C278ACC262ABC26394C27A
+      6FC39F4AC3C42EC3E01EC3F018C3F716C3F916C3F918C3F7
+      1FC3F02EC3E14AC3C570C39F95C37AACC363ACC36395C37A
+      70C39F4AC3C52EC3E11FC3F018C3F716C3F916C3F918C3F7
+      1FC3F02EC3E14BC3C472C39D9DC372C4C34BE0C32FEEC321
+      EEC321E0C32FC4C34B9DC27172BE984DB6B633A8C22694BB
+      267FA82D6D933B64824E627A61637870627C7A5B867D4E92
+      7C3F9D7935A276359E753E90744F7F74627274746E748575
+      74948274A39474B1A475BCB476C2BF79BDC47FA9C18788B7
+      8F65A9974D9D9C49959F5A939F77969F96999FAD9C9FB99D
+   </palette>
+   <edit date="mar. avril 30 04:15:02 -0400 2019" action="edit">
+      <edit date="mar. avril 30 03:28:40 -0400 2019" action="edit" filename="/home/teven/Fractals/scripting/personal/fireflies/fireflies.flame" index="0">
+         <edit filename="/home/teven/Fractals/scripting/base_flames.flame" index="12"/>
+      </edit>
+   </edit>
+</flame>

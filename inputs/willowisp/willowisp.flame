@@ -1,0 +1,45 @@
+<flame version="EMBER-LNX-1.0.0.14" time="0" name="the_last_before_the_winter_23" size="1440 910" center="-0.048 0.292" scale="872.01" rotate="-160" supersample="2" filter="0.5" filter_shape="gaussian" temporal_filter_type="box" temporal_filter_width="1" quality="1000" temporal_samples="100" sub_batch_size="10240" fuse="15" background="0 0 0" brightness="5.2913" gamma="3.81" highlight_power="1" vibrancy="1.01" estimator_radius="9" estimator_minimum="0" estimator_curve="0.4" gamma_threshold="0.01" cam_zpos="0" cam_persp="0.4107" cam_yaw="-3.04211" cam_pitch="3.82053" cam_dof="-0.085" palette_mode="linear" interpolation="linear" interpolation_type="log" plugins="gaussian_blur flatten cross linear zcone ztranslate taurus oscilloscope GlynnSim2 julia3D" new_linear="1" curves="0 0 1 0 0 1 0.253061 0.183673 1 1 1 1 0 0 1 0.114286 0.0816327 1 1 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 0 0 1 0 0 1 0.526531 0.787755 1 1 1 1 ">
+   <xform weight="0.5" color="0.105882" var_color="1" color_speed="0.5" symmetry="0" name="" animate="1" gaussian_blur="0.415" flatten="1" coefs="1 0 0 1 -0.590569 0.254755" opacity="1"/>
+   <xform weight="5" color="0.772549" var_color="1" color_speed="0.05" symmetry="0.9" name="" animate="0" cross="0.015" linear="0.89" zcone="0.331" ztranslate="-0.357" taurus="0.02" taurus_r="3" taurus_n="5" taurus_inv="1.5" taurus_sor="1" coefs="-1.11965 -1.06831 0.854836 -1.01985 -0.115798 -0.758476" opacity="1"/>
+   <xform weight="0.1" color="1" var_color="1" color_speed="1" symmetry="-1" name="" animate="0" oscilloscope="0.1" oscilloscope_separation="1" oscilloscope_frequency="3.14159" oscilloscope_amplitude="1" oscilloscope_damping="0" GlynnSim2="0.4" GlynnSim2_radius="1" GlynnSim2_thickness="0.1" GlynnSim2_contrast="0.5" GlynnSim2_pow="1.5" GlynnSim2_Phi1="0" GlynnSim2_Phi2="360" ztranslate="0.1" coefs="1 0 0 1 -0.590569 0.254755" post="-1.04192 -0.359108 0.359108 -1.04192 1.25877 -3.46646" opacity="0.1"/>
+   <finalxform color="0" var_color="1" color_speed="0" symmetry="1" name="" animate="0" julia3D="2" julia3D_power="-2" coefs="0.125981 0.992033 -0.992033 0.125981 -0.58478 -1.0885" opacity="1"/>
+   <palette count="256" format="RGB">
+      DA3CDAD33FDAC545DAB14DDA9E57DA8F64DA8A73DA8D82DA
+      938FDA9497DA8A97DA7790DA6285D8577AD35E74C97674BC
+      9977AEBB7CA5D583A5E389ADE68FBADF94C8CF9AD6B99FDF
+      A4A5E496AEE297BBD9A5CBC9BADCB8CDEAADD6F4ADD5F9B8
+      CFFBC8CAFBD7CCFBE0D4FBE0E0FBDDEBFBDBF4FBDCF8FBE2
+      F8FAEAF8FAF3F8FAF9F9FAFCFBFAFDFCFAFEFCFBFEFCFAFE
+      FBF5FDF9E8FBF4D0F7EEAFF1E88BE8E26DDADD5AC8DB54B3
+      D959A0D66493D27392CC829CC68FA8C297ADC297A3C6908B
+      CD856DD57A55DB744BE07452E47764E57C7CE58396E189AE
+      DB8FC5D094D8C09AE5AC9FEC9BA5ED91AEE794BBDBA5CBC9
+      BCDCB6D4EAA6E5F49EEFF99EF4FBA4F6FBACF7FBB4F9FBBC
+      FAFBC3FCFBCBFDFBD3FEFBDBFEFAE4FEFAECFEFAF3FEFAF7
+      FEFAFAFEFAFCFEFBFDFEFCFDFFFDFDFFFEFCFFFFFCFFFFFC
+      FFFFFDFFFFFDFFFFFDFFFFFDFFFFFEFFFFFEFFFFFEFFFFFE
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFDFFFEF7FEFCEAFBF8D1F7F1B0F0
+      E88BE9DA6DE2C85ADEB354DBA059D99364D69273D29C82CC
+      A88FC6AD97C2A397C28C90C67185C9607ACA6274C57874BA
+      9977AFB97CA8D083AADB89B4DE8FC1DF94C9E09AC4E49FB5
+      E9A59FEEAE8AF1BB7EF3CB7BF2DC81EDEA8DE5F49EDAF9B3
+      CEFBC9C5FBDDC0FBEBC0FBF4C4FBF9CCFBFBD5FBFBDFFBFA
+      EAFAF9F3FAF8F9FAF8FCFAF9FDFAFBFEFAFCFEFBFDFDFCFE
+      FDFDFFFDFEFFFDFEFFFDFDFEFDF7FCFBEAF9F7D1F5F1B0EF
+      E88BE8DA6DE2C85ADEB354DBA059D99364D69273D29C82CC
+      A88FC6AD97C2A397C28C90C67185C9607ACA6274C57874BA
+      9A77AEBC7CA5D583A4E489ABEB8FB4EE94B9EF9AB5F09FA8
+      EEA59AE8AE91DBBB94CACBA4B8DCBAADEACDADF4D6B8F9D5
+      CAFBCDDDFBC5EBFBC0F4FBC0F9FBC4FBFBCCFBFBD5FAF9DF
+      F7F3E8F4E5EEF1CDF0EBADEEE489E8D86BE2C759DEB254DB
+      9E59DA8F64DA8A73DA8F83DA9992DAA59FDAADA8DAB2ADDA
+   </palette>
+   <edit date="mar. avril 30 04:13:12 -0400 2019" action="edit">
+      <edit date="mar. avril 30 03:23:06 -0400 2019" action="edit" filename="/home/teven/Fractals/scripting/personal/willowisp/willowisp.flame" index="0">
+         <edit filename="/home/teven/Fractals/scripting/base_flames.flame" index="23"/>
+      </edit>
+   </edit>
+</flame>
