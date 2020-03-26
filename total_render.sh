@@ -1,16 +1,20 @@
-cd brick
+cd inputs
+cd crucible_highres
 emberrender --in="updates.flame" --opencl --verbose --progress --name_enable --sp
 cd ..
-cd fireflies
+cd ghost
 emberrender --in="updates.flame" --opencl --verbose --progress --name_enable --sp
 cd ..
-cd kindling
+cd hearts
 emberrender --in="updates.flame" --opencl --verbose --progress --name_enable --sp
 cd ..
-cd willowisp
+cd neon
 emberrender --in="updates.flame" --opencl --verbose --progress --name_enable --sp
 cd ..
-cd crucible
+cd sharp
+emberrender --in="updates.flame" --opencl --verbose --progress --name_enable --sp
+cd ..
+cd wavy
 emberrender --in="updates.flame" --opencl --verbose --progress --name_enable --sp
 cd ..
 
